@@ -1,0 +1,35 @@
+.settings {
+
+    border: 2px solid darkturquoise;
+    padding: 30px;
+    margin: 10px auto;
+
+
+}
+
+.inputBlock {
+    text-align: center;
+    color: greenyellow;
+
+
+}
+
+.default {
+    background-color: whitesmoke;
+    color: darkslategrey;
+    text-align: center;
+    font-size: 10px;
+
+}
+
+.errorInput {
+    background-color: red;
+    font-size: 10px;
+    text-align: center;
+}
+
+.buttonContainer{
+    border: 2px solid aqua;
+    text-align: center;
+    padding: 10px;
+}

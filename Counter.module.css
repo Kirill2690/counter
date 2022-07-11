@@ -1,0 +1,29 @@
+.wrapper {
+    display: flex;
+}
+
+.counter {
+    border: 2px solid darkturquoise;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.display {
+    border: 2px solid darkturquoise;
+    padding: 10px;
+    font-size: 60px;
+    text-align: center;
+}
+
+.buttonContainer {
+    border: 2px solid darkturquoise;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    width: 250px;
+
+}
+
+.errorInput {
+    color: red;
+}

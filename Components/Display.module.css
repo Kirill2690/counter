@@ -1,0 +1,27 @@
+.redText {
+    color: red;
+    background-color: aqua;
+}
+.errorText {
+    color: red;
+    font-size: 40px;
+    background-color: aqua;
+}
+
+
+.setText{
+    color: gold;
+    font-size: 30px;
+    background-color: aqua;
+}
+
+.count{
+    color: black;
+    background-color: aqua;
+}
+
+.errorCount{
+    color: red;
+    background-color: aqua;
+
+}
