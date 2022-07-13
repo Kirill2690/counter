@@ -1,8 +1,7 @@
 .settings {
-
     border: 2px solid darkturquoise;
-    padding: 30px;
-    margin: 10px auto;
+    padding: 25px;
+    margin: 5px auto;
 
 
 }
@@ -10,6 +9,8 @@
 .inputBlock {
     text-align: center;
     color: greenyellow;
+    font-size: 20px;
+    padding: 20px;
 
 
 }
@@ -32,4 +33,5 @@
     border: 2px solid aqua;
     text-align: center;
     padding: 10px;
+
 }

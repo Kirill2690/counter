@@ -4,19 +4,19 @@
 }
 .errorText {
     color: red;
-    font-size: 40px;
+    font-size: 30px;
     background-color: aqua;
 }
 
 
 .setText{
-    color: gold;
-    font-size: 30px;
+    color:fuchsia;
+    font-size: 50px;
     background-color: aqua;
 }
 
 .count{
-    color: black;
+    color: black;;
     background-color: aqua;
 }
 

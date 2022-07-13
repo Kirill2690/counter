@@ -1,5 +1,5 @@
-import React, {ChangeEvent} from "react";
-import '../Counter.module.css'
+
+
 import s from './Button.module.css'
 
  type ButtonType={

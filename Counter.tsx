@@ -43,7 +43,7 @@ export const Counter = () => {
                     <Display isSetting={isSetting} startValue={startValue} maxValue={maxValue} count={count}/>
                 </div>
                 <div className={s.buttonContainer}>
-                    <Button title='INC ☑' callback={onClickIncludedHandler}
+                    <Button title='INC ☝' callback={onClickIncludedHandler}
                             disabled={maxValue < 0 || startValue < 0 || startValue === maxValue || startValue > maxValue || maxValue === count}/>
                     <Button title='RES ✖' callback={onClickResHandler} disabled={false}/>
                 </div>

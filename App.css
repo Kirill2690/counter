@@ -1,6 +1,7 @@
 .App {
-    display: block;
-    position:relative;
+    display: flex;
+
+    position:center;
 
 
 }
